@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I am just a high school student with interest in programming and linux
 
 <!--
 **salahdin-ahmed/salahdin-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
