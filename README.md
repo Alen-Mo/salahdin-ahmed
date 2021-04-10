@@ -1,6 +1,11 @@
 ### Hi there 👋
 I am just a high school student with interest in programming and linux
 
+- 🔭 I’m currently working on my forks of suckless software
+- 🌱 I’m currently learning Python and C/C++
+- 👯 I’m looking to collaborate on minimalist unix-like software
+- 🤔 I’m looking for help with a lot of things ...
+- 📫 How to reach me: u/SalastroG - @SalahDin@mastodon.online - salah2112004@gmail.com
 <!--
 **salahdin-ahmed/salahdin-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
